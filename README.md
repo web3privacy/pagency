@@ -328,7 +328,7 @@ Write down a list of metrics that define the success of the product.
 
 ![alt text](https://github.com/web3privacy/pagency/blob/main/img/Lunar%20wallet%20case%20example.png?raw=true)
 
-# [Editible template (PPTX)](https://t.co/DURQaD0fy8)
+# [Editible template (PPTX)](https://github.com/web3privacy/pagency)
 
 ## Resources
 
@@ -356,6 +356,6 @@ Coindesk Privacy week [materials](https://www.coindesk.com/layer2/privacyweek/)
 [The Social Dilemma](https://www.humanetech.com/the-social-dilemma) 
 
 ## **PDF version** 
-[Available here](https://github.com/Msiusko/web3privacy/blob/main/Pagency/Pagency%20framework%20v1.0.pdf)
+[Available here](https://github.com/web3privacy/pagencyPagency%20framework%20v1.0.pdf)
 
 _Part of the [Web3privacy now](https://github.com/Msiusko/web3privacy) research project_

@@ -1,7 +1,7 @@
 # Pagency framework
 **Pagency framework** is a tool to facilitate impactful privacy-enhancing ideas & raise privacy culture in web3.
 
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/Pagency%20framework%20logo.png?raw=true)
+![alt text](https://github.com/web3privacy/pagency/blob/main/img/Pagency%20framework%20logo.png?raw=true)
 
 *Web3 tech stack could empower human privacy*
 
@@ -20,8 +20,8 @@
 
 The more use-cases would be shipped -> the better Web3-privacy would progress as a habit, lifestyle & basic human right.
 
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Framework.png?raw=true)
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Pagency%20framework%20vision.png?raw=true)
+![alt text](https://github.com/web3privacy/pagency/blob/main/img/Framework.png?raw=true)
+![alt text](https://github.com/web3privacy/pagency/blob/main/img/Pagency%20framework%20vision.png?raw=true)
 
 **Check PDF version** [here](https://github.com/Msiusko/web3privacy/blob/main/Pagency/Pagency%20framework%20v1.0.pdf)
 
@@ -42,7 +42,7 @@ The more use-cases would be shipped -> the better Web3-privacy would progress as
 # **Below is a step-by-step Pagency components introduction. You will find framework-as-a-template plus Brave & Lunar Wallet examples at the end of the page.**
 
 ## Humans 
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Humans%20title.png?raw=true) 
+![alt text](https://github.com/web3privacy/pagency/blob/main/img/Humans%20title.png?raw=true) 
 
 - _Who are you building for?_
 - _Why should they care?_
@@ -74,7 +74,7 @@ Try to talk with some of those people. Talk broadly about their internet rights,
 **Hint**: focus on humans as communities, not just individuals.
 
 ## Data 
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Data%20title.png?raw=true) 
+![alt text](https://github.com/web3privacy/pagency/blob/main/img/Data%20title.png?raw=true) 
 
 - _What kind of data are you protecting?_
 - _Why does this data matter?_
@@ -110,7 +110,7 @@ Google services track your online behaviour, make look-alike modelling & sell yo
 **Hint**: think of both on-chain & off-chain data when you are doing research.
 
 ## Challenge
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Challenge%20title.png?raw=true) 
+![alt text](https://github.com/web3privacy/pagency/blob/main/img/Challenge%20title.png?raw=true) 
 
 - _What are the main barriers on your way?_
 - _How do they compromise the person, you, industry?_
@@ -132,7 +132,7 @@ Analyse the Tornado Cash case from open-source development & DAO governance pers
 **Hint**: think of the ZK market that solves the challenge of preserving sensitive data while validating parts from KYC to age verification.
 
 ## Threat Actors
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Threat%20actors%20title.png?raw=true) 
+![alt text](https://github.com/web3privacy/pagency/blob/main/img/Threat%20actors%20title.png?raw=true) 
 
 - _Who is threatening privacy-balance?_
 - _How do these bad actors use personal data?_
@@ -157,7 +157,7 @@ Specify what threats these actors cause: selling, spying, stealing data etc.
 **Hint**: actors could be both web2 or web3 native.
 
 ## Privacy layers
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Privacy%20layers%20title.png?raw=true) 
+![alt text](https://github.com/web3privacy/pagency/blob/main/img/Privacy%20layers%20title.png?raw=true) 
 
 - _What privacy layer are you contributing to?_
 - _What’s a trade-off compared to other layers?_
@@ -175,7 +175,7 @@ Choose one of the different approaches to the web3 privacy-enhancing: from embed
 **Hint**: think of a privacy implication complexity: KYC+AML could be great for accountability in the USA, but it means the death penalty in Iran
 
 ## Solution
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Solution%20title.png?raw=true) 
+![alt text](https://github.com/web3privacy/pagency/blob/main/img/Solution%20title.png?raw=true) 
 
 - _How your idea empower humans?_
 - _How sustainable is your solution in 1-3-5 years?_
@@ -200,7 +200,7 @@ Apply the following filters to choose idea you like the most:
 **Hint**: lots of web3 solutions complement each other - an ecosystem-centric approach simplifies ideation/development  
 
 ## Partners
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Partners%20title.png?raw=true) 
+![alt text](https://github.com/web3privacy/pagency/blob/main/img/Partners%20title.png?raw=true) 
 
 - _What partners could scale your idea?_
 - _What kind of value do these partners add?_
@@ -221,7 +221,7 @@ What kind of partners do you need to make this happen? 
 **Hint**: partners should unlock value for you
 
 ## Resources
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Resources%20title.png?raw=true) 
+![alt text](https://github.com/web3privacy/pagency/blob/main/img/Resources%20title.png?raw=true) 
 
 - _What resources do you need for a start?_
 - _What resources do you need to sustain your idea (1-3 years)?_
@@ -250,7 +250,7 @@ How [Rotki](http://rotki.com) is [trying](https://twitter.com/LefterisJP/status/
 **Hint**: resource management could come in handy, helping to understand feasibility of idea for yourself & wider audiences (from hackathon jury to investors) 
 
 ## Success metrics
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Success%20metrics%20title.png?raw=true) 
+![alt text](https://github.com/web3privacy/pagency/blob/main/img/Success%20metrics%20title.png?raw=true) 
 
 - _How would you measure success?_
 - _What is the one ultimate metric to track?_
@@ -275,8 +275,8 @@ Write down a list of metrics that define the success of the product.
 
 ## Implementation
 
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Implementation.png?raw=true)
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Pagency%20framework%20template.png?raw=true)
+![alt text](https://github.com/web3privacy/pagency/blob/main/img/Implementation.png?raw=true)
+![alt text](https://github.com/web3privacy/pagency/blob/main/img/Pagency%20framework%20template.png?raw=true)
 
 ## **Principles of privacy-enhancing development**
 
@@ -319,15 +319,14 @@ Write down a list of metrics that define the success of the product.
 
 ## Examples
 
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Framework%20template.png?raw=true)
+![alt text](https://github.com/web3privacy/pagency/blob/main/img/Framework%20template.png?raw=true)
 
 # Brave browser
-
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Brave%20case%20study%20example.png?raw=true)
+![alt text](https://github.com/web3privacy/pagency/blob/main/img/Brave%20case%20study%20example.png?raw=true)
 
 # [Lunar wallet](https://devfolio.co/projects/lunar-wallet-34c4)
 
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Lunar%20wallet%20case%20example.png?raw=true)
+![alt text](https://github.com/web3privacy/pagency/blob/main/img/Lunar%20wallet%20case%20example.png?raw=true)
 
 # [Editible template (PPTX)](https://t.co/DURQaD0fy8)
 
